@@ -465,6 +465,9 @@ body:after {
 	border-bottom: none;
 	text-decoration: none;
 	}
+#mozpe h2 {
+  margin-top: 20%;
+}
 .longlist {
 	font-size: 20px;
 	}
